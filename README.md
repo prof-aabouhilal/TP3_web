@@ -1,6 +1,6 @@
-# 🎨 TP3 Web
+# TP3 Web
 
-## 🧭 Objectif du TP
+## Objectif du TP
 Mettre en pratique les propriétés CSS vues en cours pour concevoir une **mini page web stylée, interactive et responsive**.  
 Vous allez explorer les propriétés sur :
 - Les couleurs et dégradés
