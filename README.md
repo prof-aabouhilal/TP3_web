@@ -1,5 +1,9 @@
 # TP3 Web
 
+## 🎥 Résultat attendu
+
+![Aperçu du résultat final](media/demo.gif)
+
 ## Objectif du TP
 Mettre en pratique les propriétés CSS vues en cours pour concevoir une **mini page web stylée, interactive et responsive**.  
 Vous allez explorer les propriétés sur :
